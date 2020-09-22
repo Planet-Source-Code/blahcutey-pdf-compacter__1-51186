@@ -1,0 +1,19 @@
+2002-10-03
+
+PDf Compacter 2002-10-03 Karl Podlesak Source
+
+Requirements:
+Acrobat PDF Writer 4.05
+
+Execute the program PDFCompacter.exe
+Click on Compact a PDF
+Select the PDF Document
+Click on Open or press enter/return
+
+The program will automatically compact the document to it's most compressed state, while in a PDF.  If the program couldn't compress the PDF document, it will prompt you?
+
+To Exit
+Click on the Exit button
+
+For Tutornet and TSFE use only!!!
+

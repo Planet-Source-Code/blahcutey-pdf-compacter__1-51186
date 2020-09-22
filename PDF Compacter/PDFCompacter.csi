@@ -1,0 +1,7 @@
+[History]
+B0=PDFCompacter/FRMMain
+B1=PDFCompacter/FRMMain/Command1_Click
+B2=PDFCompacter/FRMMain/Command2_Click
+B3=PDFCompacter/FRMMain/Timer1_Timer
+B4=PDFCompacter/FRMMain/StatusUpdate
+B5=PDFCompacter/FRMMain/Form_Load
